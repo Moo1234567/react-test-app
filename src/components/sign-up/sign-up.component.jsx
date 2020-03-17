@@ -5,7 +5,6 @@ import CustomButton from "../custom-button/custom-button.component";
 
 import {
   auth,
-  createUserProfile,
   createUserProfileDocument
 } from "../../firebase/firebase.utils";
 
